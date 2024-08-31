@@ -11,19 +11,19 @@ const handler = async (m, {conn, usedPrefix}) => {
   const text = `${tradutor.texto1[0]}
 
 ${tradutor.texto1[1]}
-1.- https://chat.whatsapp.com/LjJbmdO0qSDEKgB60qivZj
+1.- https://chat.whatsapp.com/HNLkWdj5A8J8t0x4ogzBZF
 
-2.- https://chat.whatsapp.com/DbXBmsydWBE1ZN3EoY0hRs
+2.- https://chat.whatsapp.com/HNLkWdj5A8J8t0x4ogzBZF
 
-3.- https://chat.whatsapp.com/BW0P22xx7EGBTdH5IM851F
+3.- https://chat.whatsapp.com/HNLkWdj5A8J8t0x4ogzBZF
 
-4.- https://chat.whatsapp.com/CjexkGVr37J6GuSdDVAHzC
+4.- https://chat.whatsapp.com/HNLkWdj5A8J8t0x4ogzBZF
 
 > MoonLight Team OFC :
 
-1.- https://whatsapp.com/channel/0029Vablj8M05MUnustq3q1S
+1.- https://chat.whatsapp.com/HNLkWdj5A8J8t0x4ogzBZF
 
-2.- https://chat.whatsapp.com/GpbF3JCTEr2CSj3zLJ1IQj`.trim();
+2.- https://chat.whatsapp.com/HNLkWdj5A8J8t0x4ogzBZF`.trim();
   const buttonMessage= {
     'document': {url: `https://github.com/BrunoSobrino/TheMystic-Bot-MD`},
     'mimetype': `application/${document}`,
